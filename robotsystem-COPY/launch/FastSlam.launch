@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg = "robotsystem" type="FastSlam" name="FastSlam" />
+    
+    
+    
+</launch>
